@@ -22,7 +22,7 @@ Zlib 检测-最新入口：https://zlib.pro/pro.php
 
 Zlibrary更新：
 2024.11.16官方地址（无梯，√） https://zh.z-lib.nz/
-2024.11.10镜像地址（无梯，√） https://lib.opendelta.org/
+2024.11.10镜像地址（无梯，√） https://zh.opendelta.org/
 2024.11.05镜像地址（无梯，X） https://lib.intl.su/
 2024.10.16官方地址（需梯，√） https://zh.z-lib.gl/
 2024.10.05官方地址（需梯，√） https://zh.z-lib.fm/
