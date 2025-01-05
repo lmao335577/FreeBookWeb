@@ -14,21 +14,21 @@
     - [technical-books](https://github.com/doocs/technical-books)
 
 ```text
-Z-Library网址：
-Zlibrary 地址 |
-Zlib 检测-最新入口：https://zlib.pro/pro.php
 官方地址一：https://zh.z-lib.gd/
 官网地址二：https://zh.z-lib.gs/
 
 Zlibrary更新：
-2024.11.16官方地址（无梯，√） https://zh.z-lib.nz/
-2024.11.10镜像地址（无梯，√） https://zh.opendelta.org/
-2024.11.05镜像地址（无梯，X） https://lib.intl.su/
+
+2024.12.10镜像地址（无梯，√） https://zh.opendelta.org/
+2024.12.08镜像地址（无梯，√）https://zh.zlib-book.top/
+2024.12.12镜像地址（无梯，√）https://zb.allfree.me/
+2024.12.15镜像地址（无梯，√）https://zb.etocs.me/
+
 2024.10.16官方地址（需梯，√） https://zh.z-lib.gl/
 2024.10.05官方地址（需梯，√） https://zh.z-lib.fm/
-2024.11.29 （需梯） https://zh.1lib.sk/
-2024.11.30（无梯）https://zh.zlib-book.top/
 
+Zlibrary更新2:
+https://yinghezhinan.com/site/z-library/  
 ---
 
 全网最全电子书资源搜索方法合集（2024.11.29）
