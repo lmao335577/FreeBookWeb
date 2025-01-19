@@ -19,10 +19,11 @@
 
 Zlibrary更新：
 
-2024.12.10镜像地址（无梯，√） https://zh.opendelta.org/
 2024.12.08镜像地址（无梯，√）https://zh.zlib-book.top/
 2024.12.12镜像地址（无梯，√）https://zb.allfree.me/
 2024.12.15镜像地址（无梯，√）https://zb.etocs.me/
+2024.1.19镜像地址（无梯，√） https://zh.z-lib.today
+2024.1.19镜像地址（无梯，√） https://zh.zlib-book.top/
 
 2024.10.16官方地址（需梯，√） https://zh.z-lib.gl/
 2024.10.05官方地址（需梯，√） https://zh.z-lib.fm/
